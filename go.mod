@@ -1,4 +1,4 @@
-module github.com/recoilme/sniper
+module github.com/fastogt/sniper
 
 go 1.14
 
